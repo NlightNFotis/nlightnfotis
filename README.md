@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+I'm a computer scientist, primarily interested on:
+
+* Programming Languages - Application and Interpretation
+* Software Verification, Correctness and Reliability
+* Functional Programming and Theory of Computing
+* Automated Reasoning
+
+Outside of computing, I'm also very keen on music (I sing, play piano and guitar),
+and had some brief stints of (commercial) modelling.
+
+### Get in touch
+
+Reach me through fotis@hey.com or [@Nlightnfotis](https://twitter.com/NlightNFotis) on twi.tter
+
 <!--
 **NlightNFotis/nlightnfotis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
