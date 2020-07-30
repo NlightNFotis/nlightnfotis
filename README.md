@@ -2,7 +2,7 @@
 
 I'm a computer scientist, primarily interested on:
 
-* Programming Languages - Application and Interpretation
+* Programming Languages - Specification and Implementation
 * Software Verification, Correctness and Reliability
 * Functional Programming and Theory of Computing
 * Automated Reasoning
