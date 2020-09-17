@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a computer scientist, primarily interested on:
+I'm a software engineer, primarily interested on:
 
 * Programming Languages - Specification and Implementation
 * Software Verification, Correctness and Reliability
