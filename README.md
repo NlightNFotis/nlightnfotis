@@ -12,7 +12,7 @@ and had some brief stints of (commercial) modelling.
 
 ### Get in touch
 
-Reach me through fotis@hey.com or [@Nlightnfotis](https://twitter.com/NlightNFotis) on twitter.
+Reach me through fotis.koutoulakis@gmail.com or [@Nlightnfotis](https://twitter.com/NlightNFotis) on twitter.
 
 <!--
 **NlightNFotis/nlightnfotis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
