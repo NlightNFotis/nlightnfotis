@@ -29,3 +29,4 @@ Reach me through the following:
 * 📧 Email: fotis.koutoulakis@gmail.com
 * 🐦 Twitter: [@Nlightnfotis](https://twitter.com/NlightNFotis)
 * 🔗 LinkedIn: [in/FotisKoutoulakis](https://www.linkedin.com/in/fotiskoutoulakis/)
+* 📚 Goodreads: [Fotis Koutoulakis](https://www.goodreads.com/nlightnfotis)
