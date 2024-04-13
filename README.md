@@ -1,30 +1,30 @@
-### Hi there 👋
+### Aloha 👋
 
-I'm a computer scientist and engineer, primarily interested in:
+I'm a Mathematician and Computer Scientist, primarily interested in:
 
 * Programming Languages - Specification and Implementation
 * Software Verification, Correctness and Reliability
 * Functional Programming and Theory of Computing
 * Automated Reasoning
+* Randomness
+* Uncertainty Quantification
 
-Outside of computing, I'm also very keen on music (I sing, play piano and guitar),
-and had some brief stints of (commercial) modelling.
+Outside computing, my interests are diverse and include scholarship (I enjoy studying other subjects such
+as Economics, Biology, Chaos/Complexity, etc) and music (singing 🎤 / guitar 🎸 / piano 🎹)
 
-### Get in touch
+### Work 👨🏻‍💻💸
 
-Reach me through fotis.koutoulakis@gmail.com or [@Nlightnfotis](https://twitter.com/NlightNFotis) on twitter.
+I'm working as a *Software Engineer* at @GitHub, where I'm part of the *Security Products Engineering* department,
+working on [CodeQL](https://codeql.github.com) and assorted tools.
 
-<!--
-**NlightNFotis/nlightnfotis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Before that I was part of [Diffblue](https://www.diffblue.com)'s *Open Source* team, where I spent my time
+maintaining [CBMC](https://github.com/diffblue/cbmc), a *model checker for C* (a tool for verifying that the
+behaviour of C code aligns with its specification).
 
-Here are some ideas to get you started:
+### Contact 🤝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me through the following:
+
+* 📧 Email: fotis.koutoulakis@gmail.com
+* 🐦 Twitter: [@Nlightnfotis](https://twitter.com/NlightNFotis)
+* 🔗 LinkedIn: [in/FotisKoutoulakis](https://www.linkedin.com/in/fotiskoutoulakis/)
