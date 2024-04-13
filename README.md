@@ -14,10 +14,11 @@ as Economics, Biology, Chaos/Complexity, etc) and music (singing 🎤 / guitar �
 
 ### Work 👨🏻‍💻💸
 
-I'm working as a *Software Engineer* at @GitHub, where I'm part of the *Security Products Engineering* department,
-working on [CodeQL](https://codeql.github.com) and assorted tools.
+I'm working as a *Software Engineer* at [GitHub](https://github.com/github), where I'm part of
+the *Security Products Engineering* department, working on [CodeQL](https://codeql.github.com)
+and assorted tools.
 
-Before that I was part of [Diffblue](https://www.diffblue.com)'s *Open Source* team, where I spent my time
+Before that, I was part of [Diffblue](https://www.diffblue.com)'s *Open Source* team, where I spent my time
 maintaining [CBMC](https://github.com/diffblue/cbmc), a *model checker for C* (a tool for verifying that the
 behaviour of C code aligns with its specification).
 
