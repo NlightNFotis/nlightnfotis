@@ -30,3 +30,7 @@ Reach me through the following:
 * 🐦 Twitter: [@Nlightnfotis](https://twitter.com/NlightNFotis)
 * 🔗 LinkedIn: [in/FotisKoutoulakis](https://www.linkedin.com/in/fotiskoutoulakis/)
 * 📚 Goodreads: [Fotis Koutoulakis](https://www.goodreads.com/nlightnfotis)
+
+---
+
+🌱 I am committed to living a *climate positive* life. You can see my impact at [ecologi](https://ecologi.com/fotiskoutoulakis).
