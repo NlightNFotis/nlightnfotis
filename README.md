@@ -15,8 +15,8 @@ as Economics, Biology, Chaos/Complexity, etc) and music (singing 🎤 / guitar �
 ### Work 👨🏻‍💻💸
 
 I'm working as a *Software Engineer* at [GitHub](https://github.com/github), where I'm part of
-the *Security Products Engineering* department, working on [CodeQL](https://codeql.github.com)
-and assorted tools.
+the *Core Productivity* department, working on [CodeQL](https://codeql.github.com)
+and [Copilot Autofix](https://github.blog/news-insights/product-news/found-means-fixed-introducing-code-scanning-autofix-powered-by-github-copilot-and-codeql/).
 
 Before that, I was part of [Diffblue](https://www.diffblue.com)'s *Open Source* team, where I spent my time
 maintaining [CBMC](https://github.com/diffblue/cbmc), a *model checker for C* (a tool for verifying that the
